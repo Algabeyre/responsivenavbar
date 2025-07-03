@@ -103,7 +103,7 @@ section{
     height: auto;
     border-radius: 50px;
 }
-@media (max-width: 768px) {
+@media (max-width: 700px) {
     nav ul{
         position: absolute;
         top: 70px;
