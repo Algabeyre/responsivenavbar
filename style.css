@@ -20,6 +20,7 @@ nav{
 }
 .logo{
     color: #fff;
+    right: 0;
 }
 nav ul{
     display: flex;
@@ -41,6 +42,7 @@ nav ul li a:hover{
 .menu-icon i{
     font-size: 30px;
     color: #fff;
+    left: 0;
 }
 section{
     width: 100%;
